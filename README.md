@@ -1,6 +1,8 @@
 jupyter-scope-widget
 ===============================
 
+Work in progress, nothing to see here yet. Contact me if you want this to work, this is a solo effort so far.
+
 A jupyter notebook widget for oscilloscope interaction
 
 Installation
